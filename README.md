@@ -1,0 +1,2 @@
+# MedioCurso
+Ricardo Garza
